@@ -1,2 +1,2 @@
 # grump-app
-react native app
+react native app playground-react native
